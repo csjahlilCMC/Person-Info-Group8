@@ -1,4 +1,4 @@
-# # # v1.0.0 - [Date] - Added name input.
+# # # v1.0.0 - [March 23, 2026] - Added name input.
 (@csjahlilCMC)
 # # # v1.1.0 - [Date] - Added age/addresses.
 (@Arex1515)
